@@ -46,3 +46,9 @@ and monthly income historical trend.
 
 ## Tools
 Power BI Desktop · DAX · Power Query · Excel (data source)
+
+## Author
+
+**Salvador Jiménez-Juárez**
+Mastrère Spécialisé – Digital Strategy Management, Grenoble École de Management (2025)
+[LinkedIn](https://linkedin.com/in/salvador-jimenez97mx) · [Medium](https://medium.com/@salvador.jimenez-juarez)
